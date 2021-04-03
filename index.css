@@ -1,0 +1,13 @@
+.title {
+    color: black;
+}
+
+body {
+    background-color: pink;
+
+}
+
+.content {
+    padding-left: 100px;
+    padding-right: 100px;
+}
