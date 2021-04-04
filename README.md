@@ -1,1 +1,3 @@
-# My personal website. Basic HTML/CSS.
+# My personal website.
+
+Hosted on kashaf.ca
