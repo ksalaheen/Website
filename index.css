@@ -1,10 +1,14 @@
 .title {
-    color: black;
+    color: pink;
 }
 
 body {
-    background-color: pink;
+    background-color: black;
 
+}
+
+p {
+  color: pink;
 }
 
 .content {
@@ -14,13 +18,12 @@ body {
 
 .profilePic {
     border-radius: 50%;
-    width: 400px;
-    height: 450px;
+    width: 220px;
+    height: 250px;
     display: block;
   margin-left: auto;
   margin-right: auto;
 }
-
 
 .typing-container {
     display: flex;
@@ -54,6 +57,9 @@ body {
 .articlePhoto {
     width: 400px;
     height: 300px;
+}
+h3 {
+  color: pink;
 }
 
 .glow {
